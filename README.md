@@ -24,6 +24,17 @@ Permite **cadastrar, editar e excluir registros** de entradas e saídas, com arm
 
 ---
 
+## ▶️ Como executar
+
+```bash
+pip install customtkinter matplotlib
+python codigo.py
+```
+
+O banco `financeiro.db` é criado automaticamente na primeira execução, caso não exista.
+
+---
+
 ## 📈 Objetivo do Projeto
 
 O projeto foi desenvolvido para consolidar habilidades em:  
@@ -36,10 +47,8 @@ O projeto foi desenvolvido para consolidar habilidades em:
 ## 👩‍💻 Autora
 
 **Luana Godoy**  
-Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Planejamento e Analytics**, **Python** e **Desenvolvimento de Interfaces**.  
+Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **IA aplicada, Automação e Dados**.  
 
-📫 [LinkedIn](www.linkedin.com/in/luana-chiebáo)  
+[LinkedIn](https://www.linkedin.com/in/luana-chiebao) · [GitHub](https://github.com/Chiebao)  
 
 ---
-
-⭐ Contribuições e feedbacks são bem-vindos!  
